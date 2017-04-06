@@ -2,11 +2,11 @@
 From the top most directory
 1. Type "./run.sh" in Terminal
 2. The Python 2.7 program needs 5 command line arguments.
-	2.1. input-file - ./log_input/log.txt
-	2.2. out-file1 - ./log_output/hosts.txt
-	2.3. out-file2 - ./log_output/resources.txt
-	2.4. out-file3 - ./log_output/hours.txt
-	2.5. out-file4 - ./log_output/blocked.txt
+	i. input-file - ./log_input/log.txt
+	ii. out-file1 - ./log_output/hosts.txt
+	iii. out-file2 - ./log_output/resources.txt
+	iv. out-file3 - ./log_output/hours.txt
+	v. out-file4 - ./log_output/blocked.txt
 
 	
 # Table of Contents
